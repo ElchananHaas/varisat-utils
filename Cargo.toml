@@ -4,7 +4,9 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "Utilities for varisat, adding at-most one and exactly-one constraints"
-
+homepage = "https://github.com/ElchananHaas/varisat-utils/tree/main"
+repository = "https://github.com/ElchananHaas/varisat-utils/tree/main"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
